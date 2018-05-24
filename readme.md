@@ -1,7 +1,7 @@
 Hello 👋
 
 Thanks for checking out my **website**. You can see the live page [here](https://bettijung.github.io/Bettina-Junghahn-Portfolio/) 
-<img src="images/page.png" height="400px" width="600">
+<img src="images/page.png" height="300px" width="600">
 
 #### Contact
 
