@@ -6,7 +6,7 @@ Thanks for checking out my **website**. You can see the live page [here](https:/
 
 #### Contact
 
-Email me with inquiries, job offers or any suggestions at [bettinajunghahn@gmail.com](mailto:bettinajunghahn@gmail.com) :)
+Email me with inquiries, job offers, or any suggestions at [bettinajunghahn@gmail.com](mailto:bettinajunghahn@gmail.com) :)
 
 Cheers,  
 Bettina  
