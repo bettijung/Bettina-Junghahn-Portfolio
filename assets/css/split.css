@@ -102,7 +102,7 @@ html {
   background-color: #061C30; }
 
 body.page-template-page-fullsingle-split {
-  background-color: #061C30;
+  background-color: #1F0322;
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   font-size: 21px;
@@ -176,9 +176,9 @@ body.page-template-page-fullsingle-split {
     line-height: 16px;
     margin-bottom: 40px;
     letter-spacing: 0.4px;
-    color: #47bec7; }
+    color: #D35269; }
   .split-intro .tagline {
-    color: #CCCCCC; }
+    color: #F0EFF4; }
 
 .split-bio {
   padding: 40px 0 40px 0;
@@ -196,9 +196,10 @@ body.page-template-page-fullsingle-split {
     transition-duration: 0.5s;
     border-bottom: 1px dotted #848d96; }
     .split-bio a:hover {
-      color: #CA486d;
+      color: #69BFC6;
       transition-duration: 0.1s;
-      border-bottom: 1px dotted #CA486d; }
+      border-bottom: 1px dotted #69BFC6; 
+      text-decoration: none !important; }
 
 .split-lists .split-list {
   width: 30%;
@@ -280,3 +281,8 @@ video.video {
   .interest-margin {
     margin-bottom: 17px !important;
   }
+
+.list-header {
+  margin-bottom: 20px !important;
+  font-size: 12px !important;
+}
